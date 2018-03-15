@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:cc="http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html">
+    <channel>
+        <title><![CDATA[Stories by Michael[tm] Smith on Medium]]></title>
+        <description><![CDATA[Stories by Michael[tm] Smith on Medium]]></description>
+        <link>https://medium.com/@sideshowbarker?source=rss-8cfc8c0d9e73------2</link>
+        <image>
+            <url>https://cdn-images-1.medium.com/fit/c/150/150/0*CW5kHfdXg42HFQ9j.jpeg</url>
+            <title>Stories by Michael[tm] Smith on Medium</title>
+            <link>https://medium.com/@sideshowbarker?source=rss-8cfc8c0d9e73------2</link>
+        </image>
+        <generator>Medium</generator>
+        <lastBuildDate>Thu, 15 Mar 2018 18:55:19 GMT</lastBuildDate>
+        <atom:link href="https://medium.com/feed/@sideshowbarker" rel="self" type="application/rss+xml"/>
+        <webMaster><![CDATA[yourfriends@medium.com]]></webMaster>
+        <atom:link href="http://medium.superfeedr.com" rel="hub"/>
+        <item>
+            <title><![CDATA[One person saying “I have this problem.]]></title>
+            <link>https://medium.com/@sideshowbarker/one-person-saying-i-have-this-problem-300b5f9e938e?source=rss-8cfc8c0d9e73------2</link>
+            <guid isPermaLink="false">https://medium.com/p/300b5f9e938e</guid>
+            <dc:creator><![CDATA[Michael[tm] Smith]]></dc:creator>
+            <pubDate>Sun, 05 Jun 2016 01:19:24 GMT</pubDate>
+            <atom:updated>2016-06-05T01:19:24.096Z</atom:updated>
+            <content:encoded><![CDATA[<p>One person saying “I have this problem. Help me solve it.” <em>is </em>sufficient if the problem they’re describing is one that implementors agree is compelling enough to prioritize highly and fix. Having 300 publishers around to +1 the problem statement adds nothing. If even a single person can articulate the problem statement in way that makes its importance clear, that’s sufficient. On the other hand, if implementors don’t agree a problem someone has described is compelling enough to prioritize highly and fix, having 300 publishers around to +1 the problem statement is not going to change their minds. Browser projects’ bug trackers all have instances of open feature requests they have not implemented despite dozens or literally even hundreds of comments being posted in support of them. The volume does not matter; it’s a question of quality and viability, not quantity.</p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=300b5f9e938e" width="1" height="1">]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Strong criticisms of the IDPF-W3C merger proposal, from Baldur Bjarnason]]></title>
+            <link>https://medium.com/@sideshowbarker/strong-criticisms-of-the-idpf-w3c-merger-proposal-from-baldur-bjarnason-1cae30438fe4?source=rss-8cfc8c0d9e73------2</link>
+            <guid isPermaLink="false">https://medium.com/p/1cae30438fe4</guid>
+            <category><![CDATA[web-standards]]></category>
+            <category><![CDATA[digital-publishing]]></category>
+            <category><![CDATA[ebooks]]></category>
+            <dc:creator><![CDATA[Michael[tm] Smith]]></dc:creator>
+            <pubDate>Mon, 23 May 2016 06:15:40 GMT</pubDate>
+            <atom:updated>2016-05-23T06:15:40.663Z</atom:updated>
+            <content:encoded><![CDATA[<p><a href="https://medium.com/@fakebaldur"><strong>Baldur Bjarnason</strong></a> last week on Medium and <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=fakebaldur%20%20idpf&amp;src=typd">Twitter</a> and in a long post titled <a href="https://www.baldurbjarnason.com/notes/thoughts-on-standardisation/"><strong><em>A few thoughts on standardisation, W3C, and the IDPF</em></strong></a> on his blog wrote some criticisms of the proposal announced on May 10 to merge the IDPF into the W3C. Below are selected quotes from what he wrote.</p><p><em>The portability concept isn’t easily compatible with the web’s current security model. Fixing that incompatibility requires compromises in the web stack that I’m not excited about. Compromising web security to cater to the business models of publishers would be an intolerable compromise.</em></p><p><em>The needs of the publishing industry and the web community do not coincide particularly well. Collaboration is not a good in and of itself. When the goals of the collaborators are incompatible it instead decreases the odds of success. If the strategic goals of big publishers were compatible with the web, they’d have participated ages ago, as many many other tech-savvy publishers already have.</em></p><p><em>Why do the IDPF and the W3C need to merge for the publishing industry to get involved in the web? Why should the web community be happy about being forced to be involved in — and required to solve — the utter mess that is the ebook space? Why do the IDPF and the W3C just assume that everybody will be happy about the proposed merger? Why do people think that it’s a good idea?</em></p><p><em>The W3C is institutionally a really bad judge of what’s a good idea.</em></p><p><em>Why should the web community work with the publishing industry, when the financial strategies of most publishers do not coincide with that of most who work on and for the web?</em></p><p><em>I’m not at all convinced that the increased involvement of the IDPF and publishers in the process will push web-book-related standardisation in a healthy direction.</em></p><p><em>Everybody involved seems entirely oblivious to the possibility of portable web publications and related specs ending up as unimplemented failures.</em></p><p><em>My argument is solely that the clear failure of prior ebook-related specifications should give us more than enough cause to investigate other processes.</em></p><p><em>The only viable process under these circumstances is the community incubation model. Take the features that the publishing industry needs but might interest browser vendors through the Web Incubator Community Group.</em></p><p><em>Going the community route is more democratic, more transparent (which has been lacking in publishing industry standards work), better suited to publishing industry budget requirements, and — in my opinion — more likely to succeed.</em></p><p><em>Excluding the community by continuing with a closed process is not a good idea when the digital side of publishing is facing so many uncertainties in its near and distant future.</em></p><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=1cae30438fe4" width="1" height="1">]]></content:encoded>
+        </item>
+    </channel>
+</rss>
